@@ -34,7 +34,6 @@
 #
 # Martins A, Scotto M, Deus R, Monteiro A, Gouveia S (2021) 
 # Association between respiratory hospital admissions and air pollution in Portugal: a count time series approach
-# PLos ONE
 #
 #
 
