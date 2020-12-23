@@ -9,4 +9,4 @@ The BF method is implemented for models of time series of counts, specifically t
 Additionally, this is used in the particular context of the association of hospital admissions and air quality.
 Nevertheless, this method for covariate selection can be easily addapted to other models.
 
-There are two files available, one file contains the function with the block-foward method for the INGARCH-type model (tsglm_forward) and the other file contains examples on how to use this function (example_block-forward).
+There are two files available, one file contains the function with the block-foward method for the INGARCH-type model (forward_tsglm) and the other file contains examples on how to use this function (example_block-forward).
